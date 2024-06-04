@@ -1,6 +1,6 @@
-# Alan Lawrence
-# Module 20
 # Credit Risk Classification
+## Completed By: Alan Lawrence
+## Module 20
 
 ## Project Overview
 The objective of this project is to leverage various machine learning techniques to develop and evaluate Logistic Regression Models for identifying the creditworthiness of borrowers. The models are trained on a dataset containing features that help predict whether a loan is healthy (`0`) or high-risk (`1`).
